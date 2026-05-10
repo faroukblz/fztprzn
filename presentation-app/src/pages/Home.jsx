@@ -3,6 +3,7 @@ import { motion } from 'framer-motion';
 import {
   MonitorPlay,
   Brain,
+  Target,
   ArrowLeft,
   Bookmark,
   Share2,
@@ -29,8 +30,18 @@ const courses = [
       'معادلات التسويق، أدوات البيع الآلي، واستراتيجيات البنية التحتية للتاجر المحلي.',
     icon: <Brain size={22} />,
     iconColor: 'from-amber-500 to-orange-500',
-    modules: 3,
-    duration: '٣٠ دقيقة',
+    modules: 9,
+    duration: '١ ساعة',
+  },
+  {
+    id: 'meta-ads-pro',
+    title: 'احتراف إعلانات ميتا',
+    description:
+      'اكتشف أسرار مدير الأعمال، هيكلة الحملات الاحترافية، واستراتيجيات السوق المحلي.',
+    icon: <Target size={22} />,
+    iconColor: 'from-blue-500 to-cyan-400',
+    modules: 5,
+    duration: '٤٥ دقيقة',
   },
 ];
 

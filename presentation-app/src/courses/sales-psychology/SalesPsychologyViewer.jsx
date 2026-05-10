@@ -3,14 +3,26 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { ChevronLeft, ChevronRight, Home } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
-import Slide1_MarketingFormulas from './slides/Slide1_MarketingFormulas';
-import Slide2_WhatsAppBusiness from './slides/Slide2_WhatsAppBusiness';
-import Slide3_FacebookMarketplace from './slides/Slide3_FacebookMarketplace';
+import Slide1_MarketingIceberg from './slides/Slide1_MarketingIceberg';
+import Slide2_SurvivalMatrix from './slides/Slide2_SurvivalMatrix';
+import Slide3_MarketingFormulas from './slides/Slide3_MarketingFormulas';
+import Slide4_WinningProductRadar from './slides/Slide4_WinningProductRadar';
+import Slide5_TradeBalance from './slides/Slide5_TradeBalance';
+import Slide6_FacebookAnatomy from './slides/Slide6_FacebookAnatomy';
+import Slide7_WhatsAppBusiness from './slides/Slide7_WhatsAppBusiness';
+import Slide8_LandingPagePsychology from './slides/Slide8_LandingPagePsychology';
+import Slide9_FacebookMarketplace from './slides/Slide9_FacebookMarketplace';
 
 const slides = [
-  { id: 1, component: Slide1_MarketingFormulas, title: 'معادلات التسويق' },
-  { id: 2, component: Slide2_WhatsAppBusiness, title: 'واتساب بيزنس' },
-  { id: 3, component: Slide3_FacebookMarketplace, title: 'ماركتبلايس' },
+  { id: 1, component: Slide1_MarketingIceberg, title: 'جبل الجليد' },
+  { id: 2, component: Slide2_SurvivalMatrix, title: 'مصفوفة النجاة' },
+  { id: 3, component: Slide3_MarketingFormulas, title: 'معادلات التسويق' },
+  { id: 4, component: Slide4_WinningProductRadar, title: 'رادار المنتج' },
+  { id: 5, component: Slide5_TradeBalance, title: 'الميزان التجاري' },
+  { id: 6, component: Slide6_FacebookAnatomy, title: 'تشريح الصفحة' },
+  { id: 7, component: Slide7_WhatsAppBusiness, title: 'واتساب بيزنس' },
+  { id: 8, component: Slide8_LandingPagePsychology, title: 'صفحة الهبوط' },
+  { id: 9, component: Slide9_FacebookMarketplace, title: 'ماركتبلايس' },
 ];
 
 const slideVariants = {

@@ -5,7 +5,7 @@
 Psychology of Selling & Local Merchant Mindset + Infrastructure Setup
 
 ## Course Overview
-An interactive web-based presentation module for Fazti Academy covering the fundamentals of sales psychology, marketing formulas, and digital infrastructure tools for local merchants in Algeria. The module follows the same premium dark-theme aesthetic established in the Graphic Design Fundamentals course.
+An expanded interactive web-based presentation module for Fazti Academy covering the fundamentals of sales psychology, marketing formulas, and digital infrastructure tools for local merchants in Algeria. The module follows the same premium dark-theme aesthetic established in the Graphic Design Fundamentals course, now scaled to 9 comprehensive interactive slides.
 
 ## Brand Guidelines (Inherited)
 - **Primary Colors**: Navy (#15173d), Purple (#982598), Pink (#e491c9), Cream (#f1e9e9)
@@ -17,11 +17,35 @@ An interactive web-based presentation module for Fazti Academy covering the fund
 
 ## Slide Definitions
 
-### Slide 1: ترسانة معادلات التسويق (Marketing Formulas Arsenal)
+### Slide 1: جبل الجليد التسويقي (The Marketing Iceberg)
+**Type**: Animated SVG / Illustration
+**Visual Concept**: An animated iceberg floating in an ocean. The visible tip above water represents what beginners focus on, while the massive hidden base underwater reveals what professionals actually sell.
+**Content**:
+- 🏔️ **القمة (ما يراه المبتدئ - 10%)**: خصائص المنتج (اللون، الحجم، السعر، المادة المصنوع منها).
+- 🌊 **القاعدة المخفية (ما يبيعه المحترف - 90%)**: 
+  - الهروب من الألم (توفير الجهد والوقت).
+  - المكانة الاجتماعية (الظهور بمظهر أنيق/غني).
+  - الشعور بالأمان (حماية العائلة/السيارة).
+- 💡 **قاعدة ذهبية**: "الناس تشتري بالعاطفة، وتبرر بالمنطق".
+
+---
+
+### Slide 2: دورة حياة تاجر الـ COD (The Survival Matrix)
+**Type**: Interactive Grid / Flip Cards
+**Visual Concept**: A loop or matrix displaying common e-commerce disasters. When the user clicks or hovers over a disaster (Problem), it flips or expands to reveal the professional merchant's quick solution (Warrior Mindset).
+**Content**:
+- 🚫 **الكارثة 1**: حظر حساب الإعلانات (Banned Account)
+  - ✅ **عقلية المحارب**: تجهيز حسابات احتياطية (Warm-up) سلفاً، وعدم التعلق بحساب واحد.
+- 👻 **الكارثة 2**: طلبيات وهمية (Fake Orders)
+  - ✅ **عقلية المحارب**: سكريبت اتصال احترافي للتأكيد المزدوج + فلترة الأرقام الخاطئة.
+- 📦 **الكارثة 3**: "الروتور" العالي (High Return Rate)
+  - ✅ **عقلية المحارب**: تغليف ممتاز + تتبع يومي مع شركة التوصيل + إرسال رسالة SMS للزبون عند خروج الطلبية.
+
+---
+
+### Slide 3: ترسانة معادلات التسويق (Marketing Formulas Arsenal)
 **Type**: Interactive 3D Carousel / Flip Card layout
-
 **Visual Concept**: A card carousel where 5 marketing framework cards can be browsed sequentially. The active card is scaled up (1.0), while inactive cards are pushed to the sides with lower opacity and smaller scale.
-
 **Content (5 Cards)**:
 
 | # | Framework | Title (AR) | Steps |
@@ -36,15 +60,52 @@ An interactive web-based presentation module for Fazti Academy covering the fund
 - Next/Prev arrow buttons to cycle through cards
 - Active card has elevated z-index, full opacity, scale(1)
 - Inactive cards compressed to 0.85 scale, 0.4 opacity
-- Keyboard arrow support inherited from viewer
 
 ---
 
-### Slide 2: مندوب المبيعات الآلي (WhatsApp Business — The Automated Sales Rep)
+### Slide 4: رادار المنتج الرابح (Winning Product Radar)
+**Type**: Interactive Radar Chart / Animated Checklist
+**Visual Concept**: A spider/radar chart that expands and fills with a green gradient as each winning feature is checked off, or a dynamic checklist where each checked item contributes to a "Winning Score" progress bar.
+**Content**:
+- ✅ **مقياس الألم (Pain Killer)**: هل يحل مشكلة يومية مزعجة؟ (أداة مطبخ، مصحح وضعية الظهر).
+- 🤩 **تأثير الـ WOW**: هل يلفت الانتباه من أول 3 ثوانٍ في الفيديو؟
+- 📉 **الندرة المحلية**: يصعب إيجاده في المحلات العادية (Supermarkets) أو عند البقال.
+- 💰 **هامش الربح (Profit Margin)**: يسمح بتغطية تكلفة الإعلان والتوصيل والروتور ويترك ربحاً صافياً.
+
+---
+
+### Slide 5: الميزان التجاري (التجارة التقليدية مقابل فازتي أفيلييت)
+**Type**: Animated Balance Scale
+**Visual Concept**: A two-pan balance scale. One side is heavy and burdened with boxes (representing the worries of traditional commerce), while the other is light, glowing, and features just a laptop (Fazti Affiliate).
+**Content**:
+- 🧱 **الطريق التقليدي**: 
+  - رأس مال كبير لشراء السلعة (Risk).
+  - مخاطرة كساد المخزون (Dead Stock).
+  - تعب التغليف ومتابعة شركات التوصيل يومياً.
+- 🚀 **طريق فازتي (Affiliate)**: 
+  - صفر رأس مال للسلعة.
+  - التركيز 100% على مهارة واحدة: "التسويق".
+  - فريق كامل (Call Center + Delivery) يعمل خلف الكواليس لصالحك.
+
+---
+
+### Slide 6: تشريح صفحة فيسبوك الموثوقة (Facebook Page Anatomy)
+**Type**: Interactive UI Mockup / Wireframe
+**Visual Concept**: A blank Facebook page skeleton (Wireframe). As the user interacts, it fills up with green tooltips (Do's) and red warning markers (Don'ts) demonstrating how to build trust.
+**Content**:
+- 🟢 **افعل (Do)**: 
+  - توحيد الألوان (Branding) بين اللوغو والغلاف.
+  - تثبيت منشور (Pinned Post) يشرح سياسة الاستبدال والاسترجاع (يزرع الثقة فوراً).
+  - نشر محتوى تفاعلي (نصائح) وليس فقط صور منتجات للبيع.
+- 🔴 **لا تفعل (Don't)**: 
+  - ترك قسم "حول" (About) فارغاً.
+  - تجاهل تعليقات الزبائن (حتى السلبية منها يجب الرد عليها باحترافية).
+
+---
+
+### Slide 7: مندوب المبيعات الآلي (WhatsApp Business — The Automated Sales Rep)
 **Type**: Split-screen layout — Chat Mockup + Feature Comparison
-
 **Visual Concept**: Left side shows a CSS-rendered mobile phone mockup with animated chat bubbles popping in sequentially. Right side displays interactive feature cards comparing WhatsApp Normal ❌ vs WhatsApp Business ✅.
-
 **Content**:
 - Chat messages animate in with stagger delay (fade-in + slide-up)
 - 4 hoverable feature cards:
@@ -55,15 +116,20 @@ An interactive web-based presentation module for Fazti Academy covering the fund
 
 ---
 
-### Slide 3: الكنز المجاني (Facebook Marketplace — The Free Treasure)
+### Slide 8: المتاهة مقابل الطريق السريع (Landing Page Psychology)
+**Type**: Split-Screen Visual Metaphor
+**Visual Concept**: The screen is split in half. The left side depicts a complex, confusing maze representing a multi-product store (like Amazon). The right side depicts a straight, fast, glowing highway representing a single-product landing page with a clear CTA.
+**Content**:
+- 😵 **مفارقة الخيارات (Paradox of Choice)**: عندما تعطي الزبون 20 خياراً، يتشتت دماغه ويؤجل الشراء، ثم ينسى!
+- 🎯 **قوة التركيز (Laser Focus)**: صفحة الهبوط تصطاد زبوناً جاء من أجل حل واحد. لا تشتته بمنتجات أخرى حتى يكمل الطلب (ثم يمكنك عمل Up-sell لاحقاً).
+- 👁️ **نمط القراءة (F-Pattern)**: الزبون لا يقرأ كل شيء، هو يعمل (Scan) للصفحة.. لذلك نضع الفوائد في نقاط (Bullets) ونبرز زر "اطلب الآن" بلون فاقع.
+
+---
+
+### Slide 9: الكنز المجاني (Facebook Marketplace — The Free Treasure)
 **Type**: Animated Equation / Funnel visualization
-
 **Visual Concept**: A visual "equation" where 3 input blocks with `+` operators are animated one by one, culminating in a glowing result block. Below the equation sits a subtitle explaining the organic traffic concept.
-
-**Equation**:
-```
-📸 صور واقعية   +   ✍️ عنوان جذاب   +   💵 سعر تنافسي   =   💰 أولى المبيعات
-```
+**Equation**: - 📸 صور واقعية   +   ✍️ عنوان جذاب   +   💵 سعر تنافسي   -   💰 أولى المبيعات
 
 **Interactions**:
 - Blocks appear step-by-step with staggered animation
@@ -75,17 +141,21 @@ An interactive web-based presentation module for Fazti Academy covering the fund
 ## Technical Requirements
 - All slides use `framer-motion` for animations and `lucide-react` for icons
 - Each slide is a standalone React component in `src/courses/sales-psychology/slides/`
-- The course viewer (`SalesPsychologyViewer.jsx`) follows the same pattern as `FaztyAcademyViewer.jsx`
+- The course viewer (`SalesPsychologyViewer.jsx`) manages state and navigation across all 9 slides.
 - Route: `/course/sales-psychology`
 - Must pass `npm run build` without errors
 
 ## File Structure
-```
 src/courses/sales-psychology/
 ├── prd.md
 ├── SalesPsychologyViewer.jsx
 └── slides/
-    ├── Slide1_MarketingFormulas.jsx
-    ├── Slide2_WhatsAppBusiness.jsx
-    └── Slide3_FacebookMarketplace.jsx
-```
+  ├── Slide1_MarketingIceberg.jsx
+  ├── Slide2_SurvivalMatrix.jsx
+  ├── Slide3_MarketingFormulas.jsx
+  ├── Slide4_WinningProductRadar.jsx
+  ├── Slide5_TradeBalance.jsx
+  ├── Slide6_FacebookAnatomy.jsx
+  ├── Slide7_WhatsAppBusiness.jsx
+  ├── Slide8_LandingPagePsychology.jsx
+  └── Slide9_FacebookMarketplace.jsx
