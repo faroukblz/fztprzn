@@ -41,7 +41,7 @@ const resultBlock = {
   color: '#982598',
 };
 
-export default function Slide3_FacebookMarketplace() {
+export default function Slide9_FacebookMarketplace() {
   const [phase, setPhase] = useState(0);
   // 0 = title only, 1 = blocks appear, 2 = result reveal
 
@@ -60,7 +60,7 @@ export default function Slide3_FacebookMarketplace() {
         className="text-center z-10"
       >
         <p className="text-sm uppercase tracking-[0.3em] text-fazti-pink mb-2 font-medium">
-          الشريحة ٣ — Facebook Marketplace
+          الشريحة ٩ — Facebook Marketplace
         </p>
         <h1 className="text-4xl md:text-5xl font-bold text-white mb-2">
           الكنز المجاني

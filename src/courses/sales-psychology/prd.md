@@ -63,22 +63,52 @@ An expanded interactive web-based presentation module for Fazti Academy covering
 
 ---
 
-### Slide 4: رادار المنتج الرابح (Winning Product Radar)
-**Type**: Interactive Radar Chart / Animated Checklist
-**Visual Concept**: A spider/radar chart that expands and fills with a green gradient as each winning feature is checked off, or a dynamic checklist where each checked item contributes to a "Winning Score" progress bar.
-**Content**:
-- ✅ **مقياس الألم (Pain Killer)**: هل يحل مشكلة يومية مزعجة؟ (أداة مطبخ، مصحح وضعية الظهر).
-- 🤩 **تأثير الـ WOW**: هل يلفت الانتباه من أول 3 ثوانٍ في الفيديو؟
-- 📉 **الندرة المحلية**: يصعب إيجاده في المحلات العادية (Supermarkets) أو عند البقال.
-- 💰 **هامش الربح (Profit Margin)**: يسمح بتغطية تكلفة الإعلان والتوصيل والروتور ويترك ربحاً صافياً.
+### Slide 4: خصائص المنتج الرابح الـ 5 (5 Characteristics of a Winning Product)
 
+**Type**: Interactive Alternating Infographic Scroll (Vertical)
+
+**Visual Concept**: Instead of a standard radar chart, we use a vibrant, vertically scrolling infographic style. The layout alternates: Odd numbers have the icon on the left and text on the right, while even numbers have text on the left and the icon on the right.
+
+**Interactivity**: As the user scrolls (or clicks "Next"), each characteristic slides into view with a smooth "fade-and-slide" animation from its respective side.
+
+**Content**:
+
+1. تأثير الـ WOW (The "wow factor")
+
+[Icon on Left] أيقونة انفجار أو نجمة مكتوب بداخلها "WOW!".
+
+[Text on Right] هل يلفت الانتباه من أول 3 ثوانٍ في الفيديو؟ باختصار، هو المنتج الذي تراه وتقول: "واو! لم أر هذا من قبل! هذا رائع!".
+
+2. مقياس الألم وحل المشكلات (Problem-solving)
+
+[Text on Left] هل يحل مشكلة يومية مزعجة؟ (مثل: أداة مطبخ مبتكرة، مصحح وضعية الظهر). الناس مستعدون دائماً للدفع مقابل الحلول المريحة.
+
+[Icon on Right] أيقونة لمبة مضيئة مع قطع بازل تتركب معاً.
+
+3. هامش ربح ممتاز (Good profit margins)
+
+[Icon on Left] أيقونة رسم بياني دائري (Pie Chart) مع علامة الدولار ($).
+
+[Text on Right] يسمح بتغطية تكلفة الإعلان، التوصيل، والمرتجعات (الروتور)، ويترك لك مساحة مالية كافية لتحقيق ربح صافٍ وممتاز في النهاية.
+
+4. الندرة المحلية (Not easy to find in local stores)
+
+[Text on Left] يصعب إيجاده في المحلات العادية (Supermarkets) أو عند البقال. العديد من المنتجات الرابحة تعتمد على حصريتها وصعوبة توفرها في الأسواق المحلية.
+
+[Icon on Right] أيقونة متجر محلي مع عدسة مكبرة تبحث عنه.
+
+5. الجودة العالية (High quality)
+
+[Icon on Left] أيقونة شارة تميز (Ribbon/Badge) مع علامة إعجاب (Thumbs up).
+
+[Text on Right] إذا كنت ترغب في بناء متجر إلكتروني ناجح على المدى الطويل، وتجنب كثرة المرتجعات، يجب أن تتأكد من أنك تبيع منتجات ذات جودة عالية تلبي توقعات العميل.
 ---
 
-### Slide 5: الميزان التجاري (التجارة التقليدية مقابل فازتي أفيلييت)
+### Slide 5: مقارنة (التجارة المباشرة مقابل فازتي أفيلييت)
 **Type**: Animated Balance Scale
 **Visual Concept**: A two-pan balance scale. One side is heavy and burdened with boxes (representing the worries of traditional commerce), while the other is light, glowing, and features just a laptop (Fazti Affiliate).
 **Content**:
-- 🧱 **الطريق التقليدي**: 
+- 🧱 **الطريق التقليدي (التجارة المباشرة)**: 
   - رأس مال كبير لشراء السلعة (Risk).
   - مخاطرة كساد المخزون (Dead Stock).
   - تعب التغليف ومتابعة شركات التوصيل يومياً.
@@ -118,7 +148,7 @@ An expanded interactive web-based presentation module for Fazti Academy covering
 
 ### Slide 8: المتاهة مقابل الطريق السريع (Landing Page Psychology)
 **Type**: Split-Screen Visual Metaphor
-**Visual Concept**: The screen is split in half. The left side depicts a complex, confusing maze representing a multi-product store (like Amazon). The right side depicts a straight, fast, glowing highway representing a single-product landing page with a clear CTA.
+**Visual Concept**: The screen is split in half. The left side depicts a complex, confusing maze representing a multi-product store (like Amazon). The right side depicts a straight, fast, glowing highway representing a single-product landing page (name, phone number, size, address) with a clear CTA. the content below is hidden by default but shown when the user clicks on the "show content" button. every point has a show/hide button to show/hide the content. the left side where the confusing maze has a point (paradox of choice), the landing page has a point (laser focus), the cta button has a point beside it (f-pattern)
 **Content**:
 - 😵 **مفارقة الخيارات (Paradox of Choice)**: عندما تعطي الزبون 20 خياراً، يتشتت دماغه ويؤجل الشراء، ثم ينسى!
 - 🎯 **قوة التركيز (Laser Focus)**: صفحة الهبوط تصطاد زبوناً جاء من أجل حل واحد. لا تشتته بمنتجات أخرى حتى يكمل الطلب (ثم يمكنك عمل Up-sell لاحقاً).
@@ -129,7 +159,7 @@ An expanded interactive web-based presentation module for Fazti Academy covering
 ### Slide 9: الكنز المجاني (Facebook Marketplace — The Free Treasure)
 **Type**: Animated Equation / Funnel visualization
 **Visual Concept**: A visual "equation" where 3 input blocks with `+` operators are animated one by one, culminating in a glowing result block. Below the equation sits a subtitle explaining the organic traffic concept.
-**Equation**: - 📸 صور واقعية   +   ✍️ عنوان جذاب   +   💵 سعر تنافسي   -   💰 أولى المبيعات
+**Equation**: - 📸 صور واقعية   +   ✍️ عنوان جذاب   +   💵 سعر تنافسي   =   💰 أولى المبيعات
 
 **Interactions**:
 - Blocks appear step-by-step with staggered animation

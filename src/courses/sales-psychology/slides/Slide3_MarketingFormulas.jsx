@@ -88,7 +88,7 @@ const cards = [
   },
 ];
 
-export default function Slide1_MarketingFormulas() {
+export default function Slide3_MarketingFormulas() {
   const [activeIdx, setActiveIdx] = useState(0);
 
   const next = () => setActiveIdx((i) => (i + 1) % cards.length);
@@ -106,7 +106,7 @@ export default function Slide1_MarketingFormulas() {
         className="text-center z-10"
       >
         <p className="text-sm uppercase tracking-[0.3em] text-fazti-pink mb-2 font-medium">
-          الشريحة ١ — Marketing Formulas
+          الشريحة ٣ — Marketing Formulas
         </p>
         <h1 className="text-4xl md:text-5xl font-bold text-white mb-2">
           ترسانة معادلات التسويق

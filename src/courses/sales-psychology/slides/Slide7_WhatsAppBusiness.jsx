@@ -53,7 +53,7 @@ const features = [
   },
 ];
 
-export default function Slide2_WhatsAppBusiness() {
+export default function Slide7_WhatsAppBusiness() {
   const [showChat, setShowChat] = useState(false);
   const [hoveredFeature, setHoveredFeature] = useState(null);
 
@@ -73,7 +73,7 @@ export default function Slide2_WhatsAppBusiness() {
         className="text-center z-10"
       >
         <p className="text-sm uppercase tracking-[0.3em] text-fazti-pink mb-2 font-medium">
-          الشريحة ٢ — WhatsApp Business
+          الشريحة ٧ — WhatsApp Business
         </p>
         <h1 className="text-4xl md:text-5xl font-bold text-white mb-2">
           مندوب المبيعات الآلي

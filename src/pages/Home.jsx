@@ -31,7 +31,7 @@ const courses = [
     icon: <Brain size={22} />,
     iconColor: 'from-amber-500 to-orange-500',
     modules: 9,
-    duration: '١ ساعة',
+    duration: '٣٠ دقيقة',
   },
   {
     id: 'meta-ads-pro',
